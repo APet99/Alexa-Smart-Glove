@@ -1,0 +1,9 @@
+"Angle of Sensor" is the code for the Arduino.
+
+Read Serial (cpp) reads serial input and opens audio files accordingly.
+
+
+note for visual studio IDE:
+Might need to include winmm.lib on visual studio
+
+Concept video of the glove: https://youtu.be/WmfNOMvJgMc
